@@ -1,24 +1,26 @@
-.pageTitle{
-  color: #BB86FC;
-  text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+:root{
+  background-color: #292931;
 }
 
-:root{
-  background-color: #121212;
+.pageTitle{
+  color: #eaeaea;
+  text-align: left;
+  margin-left: 15rem;
+  margin-top: 5rem;
+  margin-bottom: 10rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 table, td, th{
   margin-left: auto;
   margin-right: auto;
   border-collapse: collapse;
-  border: 1px solid #303030;
-  color: #03DAC6;
+  border: 1px solid #eaeaea;
+  color: #EAEAEA;
 }
 
 td, th{
   padding: .5rem;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  
 }
