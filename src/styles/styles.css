@@ -1,6 +1,3 @@
-:root{
-  background-color: #292931;
-}
 
 .pageTitle{
   color: #eaeaea;
@@ -9,6 +6,10 @@
   margin-top: 5rem;
   margin-bottom: 10rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+:root{
+  background-color: #121212;
 }
 
 table, td, th{
