@@ -1,0 +1,84 @@
+h1{
+  font-family: Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+  margin: 10px 0px;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  color: black;
+  margin: 5px 0px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px 0px;
+}
+
+img {
+  margin: 20px 0px;
+  border: 1px solid black;
+}
+.price {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
+
+header {
+  background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*zszcr8*_ga*NTExMjI2NjE1LjE2NTE3NTM0MjU.*_ga_3LRZM6TM9L*MTY3MDM0Mjc1OS43MS4xLjE2NzAzNDI5MDguMC4wLjA.);
+  margin: 60px 20px;
+}
+
+.brushes, .frames, .paint{
+  margin: 20px;
+}
+
+.brushes h2{
+  background-color: mediumspringgreen;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+}
+
+.paint h2 {
+  background-color: skyblue;
+}
+
+main {
+  padding: 50px 0;
+}
+
+footer {
+  position: fixed;
+  border-top: 1px solid black;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 0px;
+  height: 10px;
+  width: 100%;
+  padding: 10px 0;
+  margin: 0 20px;
+  background-color: #fff;
+}
+
+footer a {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
+  color: black;
+}
